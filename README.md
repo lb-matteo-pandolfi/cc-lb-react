@@ -1,4 +1,4 @@
-# LeadsBridge React Quick Start
+# LeadsBridge React Code Challenge Quick Start
 
 This is a standard ReactJS web application bundled using Webpack, while TypeScript is transpiled using `ts-loader`.
 
